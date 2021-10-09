@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView</string>
+
+    <string name="light">日间模式</string>
+    <string name="night">夜间模式</string>
+</resources>
